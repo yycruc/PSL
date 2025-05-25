@@ -20,22 +20,22 @@ Experimental results in the cancer‑drug patent domain show that PSL outperform
 │   ├── test_data.pt
 │   ├── train_data.pt
 │   └── val_data.pt
-├── GCN/                        			# Graph Convolutional Network variants		
+├── GCN/                        			  # Graph Convolutional Network variants		
 │   ├── DRNL/                   			
-│   │   ├── 00-DRNL.ipynb       			# Double‑Radius Node Labeling（only subgraph labeling but no subgraph pooling）
+│   │   ├── 00-DRNL.ipynb       			  # Double‑Radius Node Labeling（only subgraph labeling but no subgraph pooling）
 │   │   ├── 10-DRNL+Sortpooling.ipynb		# DRNL+Sortpooling
 │   │   ├── 11-DRNL+SAGPOOLING.ipynb		# DRNL+SAGPooling
-│   │   └── 12-DRNL+SET2SET.ipynb     	    # DRNL+SET2SET
+│   │   └── 12-DRNL+SET2SET.ipynb     	# DRNL+SET2SET
 │   └── DE/                     			
 │   │   ├── 00-DE.ipynb       			    # Distance Encoding（only subgraph labeling but no subgraph pooling）
-│   │   ├── 10-DE+Sortpooling.ipynb		    # DE+Sortpooling		
-│   │   ├── 11-DE+SAGPOOLING.ipynb		    # DE+SAGPooling
-│   │   └── 12-DE+SET2SET.ipynb             # DE+SET2SET
-├── GAT/                        			# Graph Attention Network (same structure)
-├── SAGE/                       			# GraphSAGE (same structure)
-├── Hand-craft/                 			# Classical similarity‑index baselines
+│   │   ├── 10-DE+Sortpooling.ipynb		  # DE+Sortpooling		
+│   │   ├── 11-DE+SAGPOOLING.ipynb		  # DE+SAGPooling
+│   │   └── 12-DE+SET2SET.ipynb         # DE+SET2SET
+├── GAT/                        			  # Graph Attention Network (same structure)
+├── SAGE/                       			  # GraphSAGE (same structure)
+├── Hand-craft/                 			  # Classical similarity‑index baselines
 │   └── 05-baseline.ipynb
-└── README.md                   			# You are here
+└── README.md                   			  # You are here
 ```
 
 *Variant naming rule*   
