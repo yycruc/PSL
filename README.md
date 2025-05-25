@@ -32,10 +32,10 @@ Experimental results in the cancer‑drug patent domain show that PSL outperform
 │   │   ├── 11-DE+SAGPOOLING.ipynb       # DE+SAGPooling
 │   │   └── 12-DE+SET2SET.ipynb          # DE+SET2SET
 ├── GAT/                                 # Graph Attention Network (same structure)
-├── SAGE/                       			   # GraphSAGE (same structure)
-├── Hand-craft/                 			   # Classical similarity‑index baselines
+├── SAGE/                                # GraphSAGE (same structure)
+├── Hand-craft/                          # Classical similarity‑index baselines
 │   └── 05-baseline.ipynb
-└── README.md                   			   # You are here
+└── README.md                            # You are here
 ```
 
 *Variant naming rule*   
