@@ -16,7 +16,7 @@ Experimental results in the cancer‑drug patent domain show that PSL outperform
 
 ```
 .
-├── data/                       			
+├── Data/                       			
 │   ├── test_data.pt
 │   ├── train_data.pt
 │   └── val_data.pt
