@@ -57,7 +57,7 @@ Experimental results in the cancer‑drug patent domain show that PSL outperform
 
 ## Reproducing the study
 
-1. **Data** — The raw Cancer Moonshot patents (USPTO, 2022) are *not* included. Download them manually and place the `.csv` files in `00-Dataprocess.ipynb`.
+1. **Data** — The raw Cancer Moonshot patents (USPTO, 2022) are *not* included.
 2. **Configuration** — Hyper‑parameters used in the paper are provided in the files.
 3. **Determinism** — GNN training is inherently stochastic. Reported numbers are the mean of running results.
 
