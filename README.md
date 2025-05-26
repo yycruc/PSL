@@ -49,7 +49,7 @@ Experimental results in the cancer‑drug patent domain show that PSL outperform
 
 | Model                                                        | Accuracy  | Precision | Recall    | F1        |
 | ------------------------------------------------------------ | --------- | --------- | --------- | --------- |
-| Hand‑crafted (CN+JA+AA+PA+RA)                                | 0.667     | 0.832     | 0.419     | 0.557     |
+| Hand‑crafted (CN+JA+AA+PA+RA)                                | 0.667     | 0.764     | 0.482     | 0.591     |
 | **PSL (SAGE + DE + Set2Set)**                                | **0.760** | **0.829** | **0.655** | **0.732** |
 | *Complete tables are reported in Tab. 2–4 of the working paper.* |           |           |           |           |
 
